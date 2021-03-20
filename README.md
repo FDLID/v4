@@ -55,6 +55,6 @@
 ## sosial media
 
 
-* [`WhatsApp Admin `](https://wa.me/628990542731)
+* [`WhatsApp Admin. `](https://wa.me/628990542731)
 
 * [`INSTAGRAM `](https://instagram.com/fdl_ganz)
