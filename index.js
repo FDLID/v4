@@ -487,7 +487,7 @@ _Penggunaan limit hanya pada fitur-fitur tertentu_`, text, { quoted : mek})
 Sisa limit anda : *${limitCounts}*
 _Penggunaan limit hanya pada fitur-fitur tertentu_`, text, { quoted : mek})
                         }
-                }
+  //ngontol nyolong by FDL              }
 
 //--Balance
 if (isRegister && isGroup) {
